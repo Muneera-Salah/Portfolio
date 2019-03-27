@@ -1,0 +1,27 @@
+/*
+* My Customization CSS
+*/
+
+.logo {
+    width: 60px;
+}
+
+.info {
+    /* background-image: url("../img/web-design.jpg"); */
+    width: 100%;
+    /* background-size: cover; */
+}
+
+.portfolio-images {
+    width: 500px;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+.portfolio-info {
+    text-transform: uppercase;
+}
+
+.behance-logo {
+    width: 30px;
+}
